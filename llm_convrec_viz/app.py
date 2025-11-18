@@ -114,7 +114,7 @@ def render_header():
     st.markdown("""
     <div style="text-align: center; padding: 40px 0;">
         <h1 style="font-size: 3.5em; margin-bottom: 10px; font-weight: 700;">RA-Rec</h1>
-        <h3 style="font-weight: 300; color: #666;">Retrieval-Augmented Conversational Recommendation with Prompt-based Semi-Structured Tracking</h3>
+        <h3 style="font-weight: 300; color: #666;">Retrieval-Augmented Conversational Recommendation with Prompt-based Semi-Structured State Tracking</h3>
         <p style="font-size: 1.1em; color: #555; margin-top: 20px;">
             <b>Sara Kemper*, Justin Cui*, Kai Dicarlantonio*, Kathy Lin*, Danjie Tang*</b>, Anton Korikov, Scott Sanner
         </p>
