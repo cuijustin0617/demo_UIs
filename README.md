@@ -2,6 +2,7 @@
 
 # RA-Rec Demo UI
 
+[![Colab Demo](https://img.shields.io/badge/Colab-Demo-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1oboNxF_XpSpa3MbTiVukObmFHP6l0bzD?usp=sharing)
 [![Streamlit Demo](https://img.shields.io/badge/Streamlit-Demo-FF4B4B?logo=streamlit&logoColor=white)](https://ra-rec.streamlit.app)
 [![ACM SIGIR Digital Library](https://img.shields.io/badge/ACM%20SIGIR-0085CA?logo=acm&logoColor=fff&style=flat)](https://dl.acm.org/doi/abs/10.1145/3626772.3657670)
 [![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://github.com/D3Mlab/llm-convrec/tree/main?tab=MIT-1-ov-file#readme)
