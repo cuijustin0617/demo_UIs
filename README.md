@@ -1,99 +1,12 @@
-<div align="center">
+# Research Project Demos
 
-# RA-Rec Demo UI
+Interactive demo visualizations for Justin's research projects.
 
-[![Colab Demo](https://img.shields.io/badge/Colab-Demo-F9AB00?logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1oboNxF_XpSpa3MbTiVukObmFHP6l0bzD?usp=sharing)
-[![Streamlit Demo](https://img.shields.io/badge/Streamlit-Demo-FF4B4B?logo=streamlit&logoColor=white)](https://ra-rec.streamlit.app)
-[![ACM SIGIR Digital Library](https://img.shields.io/badge/ACM%20SIGIR-0085CA?logo=acm&logoColor=fff&style=flat)](https://dl.acm.org/doi/abs/10.1145/3626772.3657670)
-[![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://github.com/D3Mlab/llm-convrec/tree/main?tab=MIT-1-ov-file#readme)
+## Projects
 
-</div>
-
-Demo visualization for **RA-Rec: Retrieval-Augmented Conversational Recommendation with Prompt-based Semi-Structured State**
-
-## About
-
-This interactive demo showcases the RA-Rec system, which uses retrieval-augmented generation for conversational restaurant recommendations. The demo illustrates:
-
-- **Semi-structured state tracking** with hard and soft constraints
-- **Late fusion retrieval** process using review-level scoring
-- **Grounded generation** for natural recommendation responses
-
-**Authors:** Sara Kemper*, Justin Cui*, Kai Dicarlantonio*, Kathy Lin*, Danjie Tang*, Anton Korikov, Scott Sanner  
-*Equal Contribution | University of Toronto & University of Waterloo | SIGIR '24
-
-📄 [Read the Paper](https://arxiv.org/abs/2406.00033) | 💻 [GitHub Repository](https://github.com/D3Mlab/llm-convrec)
-
-## Live Demo
-
-🚀 **[View Live Demo](https://ra-rec.streamlit.app)**
-
-## Running Locally
-
-### Prerequisites
-- Python 3.8+
-- pip
-
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/YOUR_USERNAME/demo_UIs.git
-cd demo_UIs/llm_convrec_viz
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the app:
-```bash
-streamlit run app.py
-```
-
-The app will open in your browser at `http://localhost:8501`
-
-## Deployment
-
-This app can be easily deployed to:
-- **Streamlit Cloud** (recommended, free)
-- **Heroku**
-- **Railway**
-- **Google Cloud Run**
-
-### Deploy to Streamlit Cloud
-
-1. Push your code to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
-3. Connect your GitHub account
-4. Select your repository and branch
-5. Set the main file path to `llm_convrec_viz/app.py`
-6. Click Deploy!
-
-## Project Structure
-
-```
-demo_UIs/
-└── llm_convrec_viz/
-    ├── app.py           # Main Streamlit application
-    └── requirements.txt  # Python dependencies
-```
-
-## Citation
-
-If you find this work useful, please cite:
-
-```bibtex
-@inproceedings{kemper2024rarec,
-  title={RA-Rec: Retrieval-Augmented Conversational Recommendation with Prompt-based Semi-Structured State},
-  author={Kemper, Sara and Cui, Justin and Dicarlantonio, Kai and Lin, Kathy and Tang, Danjie and Korikov, Anton and Sanner, Scott},
-  booktitle={SIGIR},
-  year={2024}
-}
-```
+- **RA-Rec** (`rarec_viz/`) - Retrieval-Augmented Conversational Recommendation
+- **EQR** (`eqr_viz/`) - Elaborative Query Reformulation for Natural Language Recommendation
 
 ## License
 
 MIT License
-
