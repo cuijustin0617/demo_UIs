@@ -70,7 +70,7 @@ def render_header():
     st.markdown("""
     <div style="text-align: center; padding: 40px 0;">
         <h1 style="font-size: 3em; margin-bottom: 10px;">EQR</h1>
-        <h3 style="font-weight: 300; color: #555;">A Simple but Effective Elaborative Query Reformulation Approach</h3>
+        <h3 style="font-weight: 300; color: #555;">A Simple but Effective Elaborative Query Reformulation Approach For Natural Language Recommendation</h3>
         <p style="font-size: 1.1em; color: #444; margin-top: 15px;">
             <b>Qianfeng Wen*, Yifan Liu*, Justin Cui*</b>, Joshua Zhang, Anton Korikov, George-Kirollos Saad, Scott Sanner
         </p>
