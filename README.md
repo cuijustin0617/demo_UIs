@@ -1,4 +1,12 @@
+<div align="center">
+
 # RA-Rec Demo UI
+
+[![Streamlit Demo](https://img.shields.io/badge/Streamlit-Demo-FF4B4B?logo=streamlit&logoColor=white)](https://ra-rec.streamlit.app)
+[![ACM SIGIR Digital Library](https://img.shields.io/badge/ACM%20SIGIR-0085CA?logo=acm&logoColor=fff&style=flat)](https://dl.acm.org/doi/abs/10.1145/3626772.3657670)
+[![License: MIT](https://img.shields.io/badge/License-MIT-success.svg)](https://github.com/D3Mlab/llm-convrec/tree/main?tab=MIT-1-ov-file#readme)
+
+</div>
 
 Demo visualization for **RA-Rec: Retrieval-Augmented Conversational Recommendation with Prompt-based Semi-Structured State**
 
@@ -17,7 +25,7 @@ This interactive demo showcases the RA-Rec system, which uses retrieval-augmente
 
 ## Live Demo
 
-🚀 [View Live Demo](#) *(Add your deployment URL here)*
+🚀 **[View Live Demo](https://ra-rec.streamlit.app)**
 
 ## Running Locally
 
